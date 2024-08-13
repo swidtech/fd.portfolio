@@ -69,12 +69,10 @@ html{
     color: var(--color-white);
 }
 
-/* ----- GLOBAL ICONS DESIGN ----- */
 i{
     font-size: 16px;
 }
 
-/* ------- BASE -------- */
 body{
     background: var(--body-color);
 }
@@ -149,8 +147,6 @@ nav{
     border-radius: 50%;
 }
 
-
-/* ----- WRAPPER DESIGN ----- */
 .wrapper{
     padding-inline: 10vw;
 }
