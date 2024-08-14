@@ -619,6 +619,7 @@ footer{
         flex-direction: column;
         justify-content: center;
         height: 100vh;
+        border-top: 50px;
     }
     .featured-text{
         width: 100%;
@@ -628,7 +629,7 @@ footer{
         min-height: 60vh;
     }
     .social_icons{
-        margin-top: 2em;
+        margin-top: 10em;
     }
     .featured-image{
         order: 1;
