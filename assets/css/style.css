@@ -423,10 +423,10 @@ h3{
     box-shadow: 1px 8px 10px 2px var(--first-shadow-color);
     overflow: hidden;
 }
-.project-box>i{
-    font-size: 50px;
-    color: #00B5E7;
-    margin-bottom: 25px;
+.project-box>a>img {
+    width: 5px;
+    height: 5px;
+    object-fit: cover;
 }
 .project-box label{
     font-size: 15px;
